@@ -4,12 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+The title of my blog comes from something that my children do in summer - *jumping from trees*. At the bottom of our section winds a sluggish estuarine river. The tidal pull slowly sucks silver flashing mullet, scrabbling crabs and my screaming children past the twisting roots of a pohutakawa tree. The branches of the tree tickle the surface of the rising flow of water before scooping up my children. Screams and shouts erupt from the tree as small bodies leap with whole hearted abandon back into the river. Sometimes I feel like my children might do in this moment, with writing and researching. These activities are often a scramble that sometimes require a leap and often end in joy.
