@@ -10,7 +10,7 @@ permalink: /projects/
 
 Run charts are a quality improvement tool. Within this non-randomised observational study run charts were used to support team processes in reaching CVD risk assessment targets. The study showed that although run charts were easy to use and valued by staff, they did not make a difference in increasing assessment rates. This was likely due to national targets driving performance at the time of the study.
 
-## 
+## The reliability of mini-CEX assessments for medical students in general practice
 
 [Eggleton, K., Goodyear-Smith, F., Paton, L., Falloon, K., Wong, C., Lack, L., … Moyes, S. (2016). Reliability of mini-CEX assessment of medical students in general practice clinical attachments. *Family Medicine*, 48(8), 624–630.](http://www.stfm.org/Portals/49/Documents/FMPDF/FamilyMedicineVol48Issue8Eggleton624.pdf)
 
