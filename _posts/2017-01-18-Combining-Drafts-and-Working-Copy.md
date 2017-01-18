@@ -13,7 +13,7 @@ draft.defineTag("hyphentitle", res);
 In order to send the post from Drafts to Working Copy the Draft action has, as a second step, the following x-callback-url:
 
 ```
-working-copy://x-callback-url/write/?repo={{name.of.github.repo}}&path={{_posts/}}[[date]]-[[hyphentitle]].md&text=---%0a{{layout: post}}%0a{{title: }}[[title]]%0a---%0a[[body]]&key={{key}}
+working-copy://x-callback-url/write/?repo=\{\{name.of.github.repo\}\}&path=\{\{_posts/\}\}[[date]]-[[hyphentitle]].md&text=---%0a\{\{layout: post\}\}%0a\{\{title: \}\}[[title]]%0a---%0a[[body]]&key=\{\{key\}\}
 ```
 
 With one action I can automate the naming and posting of my blog post.
