@@ -17,7 +17,8 @@ avatar: http://eggleton.co.nz.public.s3-ap-southeast-2.amazonaws.com/Kyle_avatar
 
 # Collections (see https://jekyllrb.com/docs/collections/)
 collections:
-- geekposts
+  geekposts:
+    output: true
 
 # Includes an icon in the footer for each username you enter
 footer-links:
