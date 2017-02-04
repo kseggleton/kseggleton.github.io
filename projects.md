@@ -4,6 +4,13 @@ title: Projects, Papers and Presentations
 permalink: /projects/
 ---
 
+## Measuring Harm in Primary Care - a Methodology Paper
+
+
+[Dovey SM, Leitch S, Wallis KA, **Eggleton KS**, Cunningham WK, Williamson MI, . . . Hall JE. (2017). Epidemiology of patient harms in New Zealand: Protocol of a general practice records review study. *JMIR Res Protoc*, *6*(1), 1-11. doi:10.2196/resprot.6696](http://www.researchprotocols.org/2017/1/e10/)
+
+Knowing where and why harm occurs in general practice will assist patients, doctors, and others in making informed decisions about the risks and benefits of treatment options. Research to date has been unable to verify the safety of primary health care and epidemiological research about patient harms in general practice is now a top priority for advancing health systems safety. We aim to study the incidence, distribution, severity, and preventability of the harms patients experience due to their health care, from the whole-of-health-system lens afforded by electronic general practice patient records. In this paper we discuss the data collection, sampling methods, sampling weights, power analysis and statistical approach of this complex study. 
+
 ## Exploring experiences of general practice waiting rooms through elicited drawings
 
 [**Eggleton, K.**, Kearns, R., & Neuwelt, P. M. (2016). Being patient, being vulnerable: exploring experiences of general practice waiting rooms through elicited drawings. *Social & Cultural Geography*, 1-23. doi:10.1080/14649365.2016.1228114](http://www.tandfonline.com/doi/abs/10.1080/14649365.2016.1228114)
