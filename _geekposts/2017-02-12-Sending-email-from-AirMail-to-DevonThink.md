@@ -10,14 +10,8 @@ I spend a lot of my day managing email and so selecting a good email programme i
 The failing of AirMail has been the difficulty in automating the export of email to DevonThink. However, AirMail has some rudimentary AppleScript support and the following scripts now enable me to export email and attachments to DevonThink. I have attached the applescripts to an Alfred workflow and call the workflow with a keyboard shortcut thus automating the process with a minimum of keystrokes.
 
 **Applescript to send mail message from AirMail to DevonThink**  
+
 {% raw %}
-{*
-name:           	Save mail message
-description:	Use as a script to save mail message from Airmail to DevonThink
-author:	Kyle Eggleton www.eggleton.co.nz
-*)
-
-
 
 -- Get contents of the email
 tell application "Airmail 3"
@@ -57,14 +51,6 @@ end tell
 **AppleScript to send attachments from AirMail to DevonThink**  
 
 {% raw %}
-(*
-name:           	Save attachments
-description:	Use as a script in Airmail rules to save attachments to the selected folder.
-author:	Kyle Eggleton www.eggleton.co.nz
-*)
-
-
-
 tell application "Airmail 3"
 	
 	-- Get the count of the number of attachments
