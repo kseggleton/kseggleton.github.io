@@ -11,8 +11,7 @@ The failing of AirMail has been the difficulty in automating the export of email
 
 **Applescript to send mail message from AirMail to DevonThink**  
 
-``
-
+```
 -- Get contents of the email
 tell application "Airmail 3"
 	set x to the count of the selected message
@@ -46,10 +45,10 @@ tell application id "DNtp"
 	-- Import the email into DevonThink as record
 	create record with {name:theSubject & ".eml", source:theBody, type:unknown, URL:theURL} in theGroup
 end tell
-``
+```
 **AppleScript to send attachments from AirMail to DevonThink**  
 
-``
+```
 tell application "Airmail 3"
 	
 	-- Get the count of the number of attachments
