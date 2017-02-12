@@ -8,7 +8,7 @@ layout: default
 	<p>Everyone likes getting distracted. My distraction is being a geek and fiddling around with code in order to automate my workflows. Ostensibly this is to make me more productive. However, I am probable kidding myself. These posts are a collection of my hacks for the Mac and iOS that assist me in my academic life.</p>
 	</article>
 	
-  {% for post in site.geekposts  | sort: 'date' %}
+  {% for post in site.geekposts reversed %}
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
