@@ -3,7 +3,7 @@ layout: post
 title: Combining Drafts and Working Copy
 date: 2017-01-18
 ---
-Both [Drafts](http://agiletortoise.com/drafts/) and [Working Copy](https://workingcopyapp.com) form the core of my workflow in publishing posts to my Github hosted website. One of the requirements of a Jekyll hosted Github blog is that posts must be named in a particular way i.e. yyy-mm-dd-title-of-post.md. In order to automate the naming of posts from Drafts I wrote the following Javascript to run as an action in Drafts:
+Both [Drafts](http://agiletortoise.com/drafts/) and [Working Copy](https://workingcopyapp.com) form the core of my workflow in publishing posts to my Github hosted website. One of the requirements of a Jekyll hosted Github blog is that posts must be named in a particular way i.e. yyyy-mm-dd-title-of-post.md. In order to automate the naming of posts from Drafts I wrote the following Javascript to run as an action in Drafts:
 
 {% highlight java %}
 var str = draft.processTemplate("[[title]]");
