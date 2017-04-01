@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Horizontal violence and the second dimesion of power
+title: Horizontal violence and the second dimension of power
 ---
 During the week I had a conversation with a patient. He talked about his land that he owns. It is Māori land owned by a number of shareholders. His whānau have had ownership to a large portion of the block. The issue is that other shareholders have begun to encroach on his family's block of land and erect buildings where, by custom, they should not have been erected. This has resulted in a great deal of tension and conflict between shareholders, who are all whānau. Some of the conflict has become violent and has created rifts between whānau. He remarked that this conflict distracted Māori from the real fight – that of fighting for the return of other land that was lost through the colonisation process. What my patient was referring to is termed horizontal violence. Horizontal (or [lateral violence](https://en.m.wikipedia.org/wiki/Lateral_violence)) is displaced violence where conflict occurs between peers rather than towards a true adversary. It occurs as a result of oppression and colonisation. 
 
