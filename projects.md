@@ -7,7 +7,7 @@ permalink: /projects/
 ## Measuring access to routine appointments in general practice.
 
 
-[**Eggleton K**, Penney L, Moore J. Measuring doctor appointment availability in Northland general practice. Journal of Primary Health Care. 2017;9(1):56–61.](http://www.publish.csiro.au/HC/pdf/HC16036)
+[**Eggleton K**, Penney L, Moore J. (2017). Measuring doctor appointment availability in Northland general practice. *Journal of Primary Health Care*, *9*(1), 56–61.](http://www.publish.csiro.au/HC/pdf/HC16036)
 
 Our study aims were to determine appointment availability and establish the feasibility of measuring appointment availability through an automated process. An automated electronic query was created, run through a third party software programme, that interrogated Northland general practice patient management systems. The time to third next available appointment (TNAA) was calculated for each general practitioner (GP) and a mean calculated for each practice and across the region. The mean TNAA was 2.5 days. There was a significant relationship between TNAA and increasing number of walk-in clinics. The TNAA of 2.5 days indicates the possibility that routine appointments are constrained in Northland. However, TNAA may not give a reliable measure of urgent appointment availability and the measure needs to be interpreted by taking into account practice characteristics. Walk-in clinics, although increasing the availability of urgent appointments, may lead to more pressure on routine appointments. 
 
