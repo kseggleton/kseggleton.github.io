@@ -11,8 +11,8 @@ x-devonthink://x-callback-url/createhtml?title=[message_subject]&source=%3Cp%3E%
 The URL scheme look a little complicated but it is simply URL encoded HTML. The first portion creates an href (i.e. an HTML link), which when selected will create an email back to the sender. The second portion is the subject. The third portion is an href that links back to the original email in AirMail. The final portion is the message itself as HTML with an x-success back to AirMail. The formatted email will look something like -
 
 
-**From:** [Xanthe Squidgery](example.com)  
-**Subject:** Intergalactic meeting of moon miners  
-**Link:** [airmail://message?mail=kyle%40eggleton.co.nz&messageid=CDG56767GHhjgh8766hjh34qhhj](airmail://message?mail=kyle%40eggleton.co.nz&messageid=CDG56767GHhjgh8766hjh34qhhj)
+        **From:** [Xanthe Squidgery](example.com)  
+        **Subject:** Intergalactic meeting of moon miners  
+        **Link:** [airmail://message?mail=kyle%40eggleton.co.nz&messageid=CDG56767GHhjgh8766hjh34qhhj](airmail://message?mail=kyle%40eggleton.co.nz&messageid=CDG56767GHhjgh8766hjh34qhhj)
 
-Message to all moon miners...I hope you enjoy this URL scheme
+        Message to all moon miners...I hope you enjoy this URL scheme
