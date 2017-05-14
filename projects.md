@@ -4,12 +4,19 @@ title: Projects, Papers and Presentations
 permalink: /projects/
 ---
 
+## Gaps in Merit Based Incentive Payment system measures may reduce its impact on marginalized populations
+
+[**Eggleton, K**., Liaw, W., & Bazemore, A. (2017). Gaps in Merit Based Incentive Payment System Measures May Reduce its Impact on Marginalized Populations. *Ann Fam Med*, *15*(3), 255-7. doi: 10.1370/afm.2075](http://www.annfammed.org/content/15/3/255.full)
+
+As the United States enters a new era of value-based payment heavy in emphasis on primary care measurement, careful examination of selected measures and their potential impact on outcomes and vulnerable populations is essential. Applying a theoretical model of health care quality as a coding matrix, we used a directed content analysis approach to categorize individual Merit Based Incentive Payment System (MIPS) measures. We found that most MIPS measures related to aspects of clinical effectiveness, whereas few, if any, related to aspects of access, patient experience, or interpersonal care. These gaps suggest that MIPS may fail to measure the broader aspects of health care quality and even risk worsening existing disparities
+
 ## Measuring access to routine appointments in general practice.
 
 
 [**Eggleton K**, Penney L, Moore J. (2017). Measuring doctor appointment availability in Northland general practice. *Journal of Primary Health Care*, *9*(1), 56–61.](http://www.publish.csiro.au/HC/pdf/HC16036)
 
-Our study aims were to determine appointment availability and establish the feasibility of measuring appointment availability through an automated process. An automated electronic query was created, run through a third party software programme, that interrogated Northland general practice patient management systems. The time to third next available appointment (TNAA) was calculated for each general practitioner (GP) and a mean calculated for each practice and across the region. The mean TNAA was 2.5 days. There was a significant relationship between TNAA and increasing number of walk-in clinics. The TNAA of 2.5 days indicates the possibility that routine appointments are constrained in Northland. However, TNAA may not give a reliable measure of urgent appointment availability and the measure needs to be interpreted by taking into account practice characteristics. Walk-in clinics, although increasing the availability of urgent appointments, may lead to more pressure on routine appointments. 
+Our study aims were to determine appointment availability and establish the feasibility of measuring appointment availability through an automated process. An automated electronic query was created, run through a third party software programme, that interrogated Northland general practice patient management systems. The time to third next available appointment (TNAA) was calculated for each general practitioner 
+(GP) and a mean calculated for each practice and across the region. The mean TNAA was 2.5 days. There was a significant relationship between TNAA and increasing number of walk-in clinics. The TNAA of 2.5 days indicates the possibility that routine appointments are constrained in Northland. However, TNAA may not give a reliable measure of urgent appointment availability and the measure needs to be interpreted by taking into account practice characteristics. Walk-in clinics, although increasing the availability of urgent appointments, may lead to more pressure on routine appointments. 
 
 ## Measuring Harm in Primary Care - a Methodology Paper
 
