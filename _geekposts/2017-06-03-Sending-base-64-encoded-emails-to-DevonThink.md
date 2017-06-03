@@ -15,10 +15,10 @@ The base 64 URL scheme for DTTG allows us to create a document in DTTG with head
 
 ![Custom action in Airmail](/images/airmail-dttg.jpg)
 
-The second step is to create a workflow in Workflow.app that seperates out the variables, adds header information and the HTML body of the email derived from the variables, then base 64 encodes the resulting text and finally uses that data to trigger the following URL:
+The second step is to create a workflow in Workflow.app that separates out the variables, adds header information and the HTML body of the email derived from the variables, then base 64 encodes the resulting text and finally uses that data to trigger the following URL:
 
 ~~~
 x-devonthink://x-callback-url/createdocument?title=[url encoded title]&source=[Base 64 encoded text]&uti=com.apple.mail.email&location=[url encoded link]&x-success=airmail://  
 ~~~
 
-The complete workflow is available [here](https://workflow.is/workflows/3b30154073fb4084972b5a19bad53d83)
+The complete workflow is available [here](https://workflow.is/workflows/3ba88ea89d1c409683fe1e318ada145d)
