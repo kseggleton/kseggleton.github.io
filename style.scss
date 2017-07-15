@@ -30,13 +30,6 @@ body {
   width: 100%;
 }
 
-//Change to superscript
-
-sup {
-  font-size: 75%;
-  vertical-align: super;
-  margin-left: 2px;
-}
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
@@ -117,6 +110,21 @@ strong, b {
 img {
   max-width: 100%;
 }
+
+//Change to superscript
+
+sup {
+  font-size: 75%;
+  vertical-align: super;
+  margin-left: 2px;
+}
+
+//Change to blockquote
+
+blockquote {
+  font-size: 15px;
+}
+
 
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
