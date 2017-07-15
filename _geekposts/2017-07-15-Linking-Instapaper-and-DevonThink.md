@@ -13,4 +13,4 @@ While having a read-it-later service provides a quick way of triaging and settin
 
 Back in DevonThink, in the URL field, type the following `http://www.instapaper.com` followed by the rest of the source code that is contained between the quotation marks i.e. `/folder/2609589/rss/4368371/9TABc5rGa9j7ld5CCm2`. Bingo - you should now have a direct connection between Instapaper and DevonThink
 
-![RSS feeds in DevonThink](dt_rss.png)
+![RSS feeds in DevonThink](/images/dt_rss.png)
