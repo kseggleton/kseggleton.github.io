@@ -19,6 +19,6 @@ While I generally prefer to have all my annotations in one file some people pref
 
 For more complex readings I often like to create an OmniOutliner file and have the annotations in one column, paraphrased notes underneath the quotes and my ideas in a second column. I use a template with different colours to indicate whether the text relates to background/results, methodology, conclusion or references.
 
-![Annotations template example](/images/omnioutliner.png)
+![Annotations template example](/images/omnioutliner_annotations.png)
 
 The [Workflow](https://workflow.is/workflows/ed0afa6b2f144208bf41b7b47ea8af54) to export the annotations file from PDF Expert to OmniOutliner is a simple variation of the first Workflow that I outlined. It simply strips superfluous text such as 'notes' and 'highlights' and opens an 'Open in...' dialogue box where I select OmniOutliner. I then apply my annotations template and create notes, ideas then arrange the text into logical groupings. I finally export the OmniOutliner file to DTTG. At the moment DTTG can not do a quick preview of OmniOutliner files, but on the desktop these files can be viewed in DevonThink and the discloure triangles opened or closed.
