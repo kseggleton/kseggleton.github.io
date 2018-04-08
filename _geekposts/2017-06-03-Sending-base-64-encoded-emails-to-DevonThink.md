@@ -2,7 +2,7 @@
 layout: post
 title: Sending base 64 encoded emails to DevonThink
 ---
-DevonThink-to-go has the ability to create a new document through Base64 encoding. While this is useful for images I thought that it would also be useful for archiving properly formatted emails from Airmail. While I have previously [documented](http://eggleton.co.nz/geekposts/2017-05-10-Airmail-iOS-to-DevonThink/) how to archive an HTML formatted email into DTTG there are couple of faults with this. The first is that the email that is created appears as an HTML file in DTTG (rather than an email) and secondly the link that is created is not accessed through a URL in the *information* button in DTTG. In order to get DTTG to recognise that a file is in fact an email there needs to be a [UTI](https://en.m.wikipedia.org/wiki/Uniform_Type_Identifier) associated with the file. For emails the UTI is com.apple.mail.email. Another requirement is header information i.e. 
+DevonThink-to-go has the ability to create a new document through Base64 encoding. While this is useful for images I thought that it would also be useful for archiving properly formatted emails from Airmail. While I have previously [documented](http://eggleton.co.nz/geekposts/2017-05-10-Airmail-iOS-to-DevonThink/) how to archive an HTML formatted email into DTTG there is one major fault with this. and that is that the email that is created appears as an HTML file in DTTG (rather than an email). In order to get DTTG to recognise that a file is in fact an email there needs to be a [UTI](https://en.m.wikipedia.org/wiki/Uniform_Type_Identifier) associated with the file. For emails the UTI is com.apple.mail.email. Another requirement is header information i.e. 
 
 	From:  
 	To:  
