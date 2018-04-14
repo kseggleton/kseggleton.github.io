@@ -15,6 +15,12 @@ This research highlights the results of a Kaupapa Māori fitness and exercise pr
 
 The aim of this project was to reassess general practice adherence to national guidelines for the management of GAS pharyngitis in Northland, New Zealand, following implementation of the national Rheumatic Fever Prevention Programme. Throat swab and dispensing data were obtained and analysed for children and young people aged 3–20 years who attended general practice in Northland between 1 April and 31 July 2016 and had laboratory-proven GAS pharyngitis. The results indicate that there are significant differences in the management of care for Māori and non-Māori patients.
 
+## Whānau perceptions and experiences of acute rheumatic fever diagnosis for Māori in Northland, New Zealand
+
+[Anderson, A., Mills, C., **Eggleton, K.**, (2017) Whānau perceptions and experiences of acute rheumatic fever diagnosis for Māori in Northland, New Zealand *NZ Med J*, *130*(1465), 80-88.](https://www.nzma.org.nz/journal/read-the-journal/all-issues/2010-2019/2017/vol-130-no-1465-10-november-2017/7411)
+
+In New Zealand, acute rheumatic fever (ARF) remains a significant health problem with persistent ethnic inequities. Māori children 5-15 years of age in Northland have some of the highest ARF rates nationally. This study explored Māori whānau experiences of ARF, including pathways to primary healthcare and barriers and facilitators for diagnosis of ARF. The study applied a qualitative kaupapa Māori approach including eight whānau, two individual interviews and participant observations with 36 participants. Barriers to accessing primary healthcare included: geographic distance, unavailability of appointments, cost, poor trust and rapport between health providers and whānau. Good rapport, communication and trust with health professionals facilitated utilisation of services. Barriers to diagnosis were lack of throat swabbing and inappropriate prescription of antibiotics. Access to primary care, having health professionals follow sore throat guidelines and trust in health professionals facilitated diagnosis. 
+
 ## Gaps in Merit Based Incentive Payment system measures may reduce its impact on marginalized populations
 
 [**Eggleton, K**., Liaw, W., & Bazemore, A. (2017). Gaps in Merit Based Incentive Payment System Measures May Reduce its Impact on Marginalized Populations. *Ann Fam Med*, *15*(3), 255-7. doi: 10.1370/afm.2075](http://www.annfammed.org/content/15/3/255.full)
