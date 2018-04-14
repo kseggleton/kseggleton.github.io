@@ -6,7 +6,7 @@ The iPad is ideally suited for reading PDFs and making highlights and annotation
 
 ## PDF Expert annotations to Markdown to DTTG
 
-[PDF Expert](https://pdfexpert.com/ios) has the ability to export a copy of annotations. Each annotation is prefixed by the type of annotation e.g. highlight or note. The annotations are exported as an HTML file. While it is possible to export this directly to DTTG it is not my preferred option as I like to use Markdown. This relatively simple [Workflow](https://workflow.is/workflows/91668c70e07841caaf142638aa35d3e5) can reformat the HTML file into Markdown and then send the resulting file to DTTG. It does two additional things: 
+[PDF Expert](https://pdfexpert.com/ios) has the ability to export a copy of annotations. In order to export the annotations you need to tap on the three dots in the top right in PDF Expert for iOS, then select 'Save a Copy' and then tap 'Annotations Summary'. Each annotation is prefixed by the type of annotation e.g. highlight or note. The annotations are exported as an HTML file. While it is possible to export this directly to DTTG it is not my preferred option as I like to use Markdown. This relatively simple [Workflow](https://workflow.is/workflows/91668c70e07841caaf142638aa35d3e5) can reformat the HTML file into Markdown and then send the resulting file to DTTG. It does two additional things: 
 
 1. The Workflow will strip out the text 'highlight' and replace with a Markdown quote marker (i.e. >). 
 2. In addition all text beginning with 'note' will have the 'note' word stripped.  
