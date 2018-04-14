@@ -3,6 +3,17 @@ layout: page
 title: Projects, Papers and Presentations
 permalink: /projects/
 ---
+## Ngātiwai Whakapakari Tinana: strengthening bodies through a Kaupapa Māori fitness and exercise programme
+
+[**Eggleton, K.**, Stewart, L., Kask, A. (2018) Ngātiwai Whakapakari Tinana: strengthening bodies through a Kaupapa Māori fitness and exercise programme. *J Primary Health Care*, *10*(1), 25-30. doi: 10.1071/HC17068](http://www.publish.csiro.au/HC/fulltext/HC17068)
+
+This research highlights the results of a Kaupapa Māori fitness and exercise programme that aimed to assist mainly Māori adults, to lose weight. The programme was designed to support participants by using Māori cultural values. A Muay Thai kickboxing exercise programme was developed with community involvement. Kaupapa Māori principles underpinned the programme, such as whanaungatanga and tino rangatiratanga. Ninety-three participants were followed for at least 3 months. The mean duration of participation was 214 days. The estimated weight loss per participant per 100 days was 5.2 kg. Statistically significant improvements were noted in blood pressure, waist and hip circumference, systolic blood pressure and mental wellbeing.
+
+## A repeat audit of primary care management of group A streptococcal pharyngitis in Northland, New Zealand 2016
+
+[Shetty, A., Mills, C., **Eggleton, K.** (2018) A repeat audit of primary care management of group A streptococcal pharyngitis in Northland, New Zealand 2016. *J Primary Health Care*, *10*(1), 18-24. doi: 10.1071/HC17056](http://www.publish.csiro.au/HC/HC17056)
+
+The aim of this project was to reassess general practice adherence to national guidelines for the management of GAS pharyngitis in Northland, New Zealand, following implementation of the national Rheumatic Fever Prevention Programme. Throat swab and dispensing data were obtained and analysed for children and young people aged 3–20 years who attended general practice in Northland between 1 April and 31 July 2016 and had laboratory-proven GAS pharyngitis. The results indicate that there are significant differences in the management of care for Māori and non-Māori patients.
 
 ## Gaps in Merit Based Incentive Payment system measures may reduce its impact on marginalized populations
 
