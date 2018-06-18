@@ -3,6 +3,23 @@ layout: page
 title: Projects, Papers and Presentations
 permalink: /projects/
 ---
+## Ngātiwai Whakapakari Tinana: strengthening bodies through a Kaupapa Māori fitness and exercise programme
+
+[**Eggleton, K.**, Stewart, L., Kask, A. (2018) Ngātiwai Whakapakari Tinana: strengthening bodies through a Kaupapa Māori fitness and exercise programme. *J Primary Health Care*, *10*(1), 25-30. doi: 10.1071/HC17068](http://www.publish.csiro.au/HC/fulltext/HC17068)
+
+This research highlights the results of a Kaupapa Māori fitness and exercise programme that aimed to assist mainly Māori adults, to lose weight. The programme was designed to support participants by using Māori cultural values. A Muay Thai kickboxing exercise programme was developed with community involvement. Kaupapa Māori principles underpinned the programme, such as whanaungatanga and tino rangatiratanga. Ninety-three participants were followed for at least 3 months. The mean duration of participation was 214 days. The estimated weight loss per participant per 100 days was 5.2 kg. Statistically significant improvements were noted in blood pressure, waist and hip circumference, systolic blood pressure and mental wellbeing.
+
+## A repeat audit of primary care management of group A streptococcal pharyngitis in Northland, New Zealand 2016
+
+[Shetty, A., Mills, C., **Eggleton, K.** (2018) A repeat audit of primary care management of group A streptococcal pharyngitis in Northland, New Zealand 2016. *J Primary Health Care*, *10*(1), 18-24. doi: 10.1071/HC17056](http://www.publish.csiro.au/HC/HC17056)
+
+The aim of this project was to reassess general practice adherence to national guidelines for the management of GAS pharyngitis in Northland, New Zealand, following implementation of the national Rheumatic Fever Prevention Programme. Throat swab and dispensing data were obtained and analysed for children and young people aged 3–20 years who attended general practice in Northland between 1 April and 31 July 2016 and had laboratory-proven GAS pharyngitis. The results indicate that there are significant differences in the management of care for Māori and non-Māori patients.
+
+## Whānau perceptions and experiences of acute rheumatic fever diagnosis for Māori in Northland, New Zealand
+
+[Anderson, A., Mills, C., **Eggleton, K.**, (2017) Whānau perceptions and experiences of acute rheumatic fever diagnosis for Māori in Northland, New Zealand *NZ Med J*, *130*(1465), 80-88.](https://www.nzma.org.nz/journal/read-the-journal/all-issues/2010-2019/2017/vol-130-no-1465-10-november-2017/7411)
+
+In New Zealand, acute rheumatic fever (ARF) remains a significant health problem with persistent ethnic inequities. Māori children 5-15 years of age in Northland have some of the highest ARF rates nationally. This study explored Māori whānau experiences of ARF, including pathways to primary healthcare and barriers and facilitators for diagnosis of ARF. The study applied a qualitative kaupapa Māori approach including eight whānau, two individual interviews and participant observations with 36 participants. Barriers to accessing primary healthcare included: geographic distance, unavailability of appointments, cost, poor trust and rapport between health providers and whānau. Good rapport, communication and trust with health professionals facilitated utilisation of services. Barriers to diagnosis were lack of throat swabbing and inappropriate prescription of antibiotics. Access to primary care, having health professionals follow sore throat guidelines and trust in health professionals facilitated diagnosis. 
 
 ## Gaps in Merit Based Incentive Payment system measures may reduce its impact on marginalized populations
 
