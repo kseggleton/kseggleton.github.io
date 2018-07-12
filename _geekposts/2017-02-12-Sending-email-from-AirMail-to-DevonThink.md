@@ -34,7 +34,7 @@ MIME-Version: 1.0
 Content-Type: text/html; charset=\"iso-8859-1\"
 
 
-" & theSource
+" & theSource & "<br><br><a href=\"" & theURL & "\">Link to original email</a>"  
 end tell
 
 -- Select the group to send the email to DevonThink
