@@ -4,9 +4,11 @@ title: Working with references in DEVONthink
 date: 2019-06-17
 ---
 
-# Getting a PDF into Bookends
+My general workflow involves importing PDFs into DEVONthink 3, renaming them based on an *Author, Date* format, applying tags and labels. Bookends is the referencing program that I use to generate citations and bibliographies.
 
-My general workflow involves importing PDFs into DEVONthink 3, renaming them based on an *Author, Date* format, applying tags and labels. For those PDFs that I think I want to reference in the future I will export them to Bookends. The attachments folder for Bookends is the same folder that DEVONthink indexes. In order to export a reference to Bookends I use the following script:
+## Getting a PDF into Bookends
+
+For those PDFs that I think I want to reference in the future I will export them to Bookends. The attachments folder for Bookends is the same folder that DEVONthink indexes. In order to export a reference to Bookends I use the following script:
 
 ```
 -- Exports record from DEVONthink to Bookends and creates link
@@ -59,7 +61,7 @@ end tell
 
 The script uses the *Author, Date* naming convention that I use to generate the author of the reference in Bookends and the date of publication. I will then complete the reference details using the auto-complete feature in Bookends.
 
-# Updating the DEVONthink record
+## Updating the DEVONthink record
 
 
 Once the PDF is in Bookends and the reference details are complete then I like to have basic reference details in DEVONthink. I have created some custom meta data fields that store this information, along with links to any annotations I might make or reading briefs.
@@ -136,7 +138,7 @@ tell application "Bookends"
 end tell
 ```
 
-# Getting annotations from Bookends
+## Getting annotations from Bookends
 
 My annotations workflow varies a lot. If I am on my iMac I often use the Bookends annotation feature and create *Note Cards* with PDF highlights. I use the following script to create a Markdown annotations summary in the *Annotations* group in the DEVONthink database where the indexed PDF exists. I also creates a link between the indexed PDF and the Markdown annotation summary that is stored in a custom meta data field outlines above.
 
@@ -226,7 +228,7 @@ An example of what the annotations summary looks like is below.
 
 ![Annotations summary]({{ site.url }}/images/annotations_summary.jpg)
 
-# Creating a reading brief
+## Creating a reading brief
 
 For important pieces of writing I will create a Markdown reading brief. This is stored in a group in DEVONthink called ‘Reading briefs’. The template creates four headings - Summary, Main Points, Critique, Question. The title, authors, citations, reference and abstracts are pulled from the Bookends reference that is linked in the PDF (created by the link script above). The script creates a link in the PDF in a custom meta data field.
 
