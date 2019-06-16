@@ -66,7 +66,7 @@ The script uses the *Author, Date* naming convention that I use to generate the 
 
 Once the PDF is in Bookends and the reference details are complete then I like to have basic reference details in DEVONthink. I have created some custom meta data fields that store this information, along with links to any annotations I might make or reading briefs.
 
-![Custom meta data fields in DEVONthink]({{ site.url }}/images/custommetadata_dntp.png){width=250}
+![Custom meta data fields in DEVONthink]({{ site.url }}/images/custommetadata_dntp.png){:width="300px"}
 
 For my purposes I use a script that links the selected Bookends reference to the selected DEVONthink record. **The script uses an external dependency - exiftool, that will need to be installed separately**. Exiftool changes the title and author fields of a PDF. One other point of note is that because I use pandoc-citeproc for my citations, the citations format is BibTex and stored in the *user1* field in Bookends. 
 
