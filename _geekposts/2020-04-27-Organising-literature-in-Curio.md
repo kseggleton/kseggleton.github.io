@@ -13,14 +13,14 @@ Each text figure is tagged, with its Pandoc formatted citation. Wiki links, that
 
 I also create a number of other links in Curio, including reference links that will jump me to the associated reading brief or annotation summary in DEVONthink.
 
-![Reference links](/images/annotation_links.png){:width="300px"}
+![Reference links](/images/annotation_links.png){:width="500px"}
 
 Other links can also be created in Curio, such as the below jump action that takes me to a structured reading note in DEVONthink.
 
-![Jump action to reading brief](/images/links_dtp.png){:width="300px"}
+![Jump action to reading brief](/images/links_dtp.png){:width="500px"}
 
 Or a jump action to take me to an associated idea space in Curio. 
 
-![Jump action to Curio idea space](/images/curio_links.png){:width="300px"}
+![Jump action to Curio idea space](/images/curio_links.png){:width="500px"}
 
 This ability to create connections and organise text in a graphical way has enabled me to plan and structure my writing in a more in-depth manner.
