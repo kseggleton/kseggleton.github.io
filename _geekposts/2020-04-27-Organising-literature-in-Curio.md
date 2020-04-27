@@ -9,18 +9,18 @@ I have previously written about how I use [DEVONthink Pro](https://www.devontech
 
 Each text figure is tagged, with its Pandoc formatted citation. Wiki links, that I created in DEVONthink, are active meaning that when I click on the wiki link (indicated by text enclosed in double square brackets in the figure below) I will jump to the linked record in DEVONthink. 
 
-![Tags and active wiki links](/images/tags.png)
+![Tags and active wiki links](/images/tags.png){:width="300px"}
 
 I also create a number of other links in Curio, including reference links that will jump me to the associated reading brief or annotation summary in DEVONthink.
 
-![Reference links](/images/annotation_links.png)
+![Reference links](/images/annotation_links.png){:width="300px"}
 
 Other links can also be created in Curio, such as the below jump action that takes me to a structured reading note in DEVONthink.
 
-![Jump action to reading brief](/images/links_dtp.png)
+![Jump action to reading brief](/images/links_dtp.png){:width="300px"}
 
 Or a jump action to take me to an associated idea space in Curio. 
 
-![Jump action to Curio idea space](/image/curio_links.png)
+![Jump action to Curio idea space](/images/curio_links.png){:width="300px"}
 
 This ability to create connections and organise text in a graphical way has enabled me to plan and structure my writing in a more in-depth manner.
