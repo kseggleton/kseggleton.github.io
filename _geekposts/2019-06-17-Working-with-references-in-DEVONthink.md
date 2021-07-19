@@ -244,8 +244,7 @@ try
 		-- Requires a linked reference in Bookends  
 		set theURL to the URL of theRecord
 		if theURL does not contain "bookends" then error
-		open tab for URL theURL
-		close think window named theURL
+		open location theURL
 		-- Get the URL of the selected record in DEVONthink
 		set theLink to reference URL of theRecord
 	end tell
