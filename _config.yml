@@ -10,7 +10,7 @@ description: Personal webpage of Kyle Eggleton
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 # avatar: http://eggleton.co.nz.public.s3-ap-southeast-2.amazonaws.com/Kyle_avatar.png
-avatar: https://github.com/kseggleton/kseggleton.github.io/blob/master/images/tree-blog.png
+avatar: /images/tree-blog.png
 
 #
 # Flags below are optional
