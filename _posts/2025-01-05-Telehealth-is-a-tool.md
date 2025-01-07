@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A tool not a panacea: telehealth is overhyped as a solution to New Zealand’s rural health-care crisis
+title: A tool not a panacea - telehealth is overhyped as a solution to New Zealand’s rural health-care crisis
 ---
 Telehealth has been touted as one solution to New Zealand’s ongoing health-care crisis, which is particularly stark in rural regions. But moving health services online can have a number of unintended consequences that can impact the wellbeing of patients and doctors.
 
